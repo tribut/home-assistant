@@ -9,7 +9,7 @@ contextvars==2.4;python_version<"3.7"
 importlib-metadata==0.19
 jinja2>=2.10.1
 PyJWT==1.7.1
-cryptography==2.7
+cryptography==3.2
 pip>=8.0.3
 python-slugify==3.0.3
 pytz>=2019.02
