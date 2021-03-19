@@ -944,7 +944,7 @@ pilight==0.1.1
 # homeassistant.components.proxy
 # homeassistant.components.qrcode
 # homeassistant.components.tensorflow
-pillow==6.1.0
+pillow==8.1.1
 
 # homeassistant.components.dominos
 pizzapi==0.0.3
