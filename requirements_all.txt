@@ -981,7 +981,7 @@ proliphix==0.4.1
 prometheus_client==0.7.1
 
 # homeassistant.components.tensorflow
-protobuf==3.6.1
+protobuf==3.15.0
 
 # homeassistant.components.systemmonitor
 psutil==5.6.3
